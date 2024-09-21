@@ -1,0 +1,6 @@
+name: SafeShulker
+main: dev.skh6075.bukkit.safeshulker.Main
+version: 1.0.0
+website: https://github.com/skh6075
+author: skh6075
+api-version: 1.17
